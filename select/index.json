@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Lazarus",
+  "base_artist": "The Boo Radleys",
+  "createdAt": "2026-03-26T09:00:56.531546Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_Lazarus_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dig, Lazarus, Dig!!!",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": false,
+      "path": "select/02_Dig,_Lazarus,_Dig!!!_Nick_Cave_&_The_Bad_Seeds.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lazarus on Down (feat. Serj Tankian)",
+      "artist": "Tom Morello: the Nightwatchman feat. Tom Morello & Serj Tankian",
+      "has_synced": false,
+      "path": "select/03_Lazarus_on_Down_(feat._Serj_Tankian)_Tom_Morello__the_Nightwatchman_feat._Tom_Morello_&_Serj_Tankian.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lazarus On Down (featuring Serj Tankian)",
+      "artist": "Tom Morello: The Nightwatchman",
+      "has_synced": false,
+      "path": "select/04_Lazarus_On_Down_(featuring_Serj_Tankian)_Tom_Morello__The_Nightwatchman.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Be Afraid (feat. Jungle & Damian Lazarus)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/05_Don't_Be_Afraid_(feat._Jungle_&_Damian_Lazarus)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/06_Lazarus_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/07_Lazarus_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lazarus (feat. Boj)",
+      "artist": "Dave feat. Boj",
+      "has_synced": true,
+      "path": "select/08_Lazarus_(feat._Boj)_Dave_feat._Boj.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lazarus (feat. Boj)",
+      "artist": "Dave",
+      "has_synced": true,
+      "path": "select/09_Lazarus_(feat._Boj)_Dave.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "Active Child",
+      "has_synced": true,
+      "path": "select/10_Lazarus_Active_Child.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/11_Lazarus_The_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lazarus Phenomenon",
+      "artist": "Bike For Three!",
+      "has_synced": true,
+      "path": "select/12_Lazarus_Phenomenon_Bike_For_Three!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "David Byrne & St. Vincent",
+      "has_synced": true,
+      "path": "select/13_Lazarus_David_Byrne_&_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/14_Lazarus_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/15_Lazarus_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/16_Lazarus_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/17_Lazarus_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lazarus",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/18_Lazarus_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lazarus",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/pl_01_Lazarus_The_Boo_Radleys.txt"
+    }
+  ]
+}
