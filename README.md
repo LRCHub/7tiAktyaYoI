@@ -1,0 +1,18 @@
+# The Boo Radleys – Lazarus
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I must be losing my mind
+I keep on trying to find a way out
+But it's ok you don't lock the door anymore
+I, you know I never go out
+And you know that I start to forget things
+But it's ok they weren't essential anyway
+I, and when I start to look back
+I feel like I've spent my whole life just kicking round
+And not getting in the way
+And now, and maybe now I should change
+Because I'm starting to lose all my faith
+While those around me are beaten down each day.
+```
